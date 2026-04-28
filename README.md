@@ -1,6 +1,6 @@
 # Generalized Ensemble Optimization
 
-A unified loop for AutoML and ensemble construction: tune, blend, and *grow* the ensemble until it stops improving. MSc Computational Finance dissertation, University of Essex, 2019.
+A unified loop for AutoML and ensemble construction: tune, blend, and *grow* the ensemble until it stops improving. MSc Computational Finance dissertation, University of Essex, 2019. Awarded the **CCFEA MSc Project Prize** (best dissertation in the Centre for Computational Finance and Economic Agents). Graduated with First Class Honours.
 
 ## The idea
 
