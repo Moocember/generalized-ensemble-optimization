@@ -1,0 +1,19 @@
+__pycache__/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Large/local experiment artifacts
+*.csv
+*.pickle
+*.pkl
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
